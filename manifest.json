@@ -1,7 +1,9 @@
 {
     "commerceSuiteVersion": "6.7.0.0",
     "extensions": [
-        "userregistered"
+        "userregistered",
+        "yacceleratorstorefront",
+        "backoffice"
     ],
     "storeFrontExtension": "yacceleratorstorefront",
     "storeFrontWebRoot": "/yacceleratorstorefront"
