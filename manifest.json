@@ -1,0 +1,38 @@
+{
+    "commerceSuiteVersion": "6.6.0.3",
+    "extensions": [
+        "kiwi",
+        "tiger",
+        "albinostorefront",
+        "backoffice",
+        "platformbackoffice",
+        "electronicsstore",
+        "albinofulfilmentprocess",
+        "privacyoverlayeraddon",
+        "albinoaddon"
+    ],
+    "storeFrontExtension": "albinostorefront",
+    "storeFrontWebRoot": "/albinostorefront",
+    "aspects": [
+        {
+            "name": "backoffice",
+            "properties": [
+                
+            ],
+            "webapps": [
+                {
+                    "name": "hac",
+                    "contextPath": "/hac"
+                },
+                {
+                    "name": "mediaweb",
+                    "contextPath": "/medias"
+                },
+                {
+                    "name": "backoffice",
+                    "contextPath": "/backoffice"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+# files created by build.gradle #
+#################################
+build
+.gradle
+work
+
+# Compiled sources #
+####################
+classes
+testclasses
+*.class
+gensrc
+eclipsebin
+
+# Generated files #
+###################
+*/hmc/bin
+build.xml
+platformhome.properties
+extensioninfo.xsd
+beans.xsd
+items.xsd
+hmc.xsd
+**/*-testclasses.xml
+**/*-webtestclasses.xml
+ruleset.xml
+*/resources/*.build.number
+
+*.iml
+/module.gradle
+/module.gradle~
+/*.xml~
+.lastupdate
+*/web/webroot/WEB-INF/lib
+
+*_bof.jar
