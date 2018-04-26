@@ -3,7 +3,9 @@
     "extensions": [
         "userregistered",
         "yacceleratorstorefront",
-        "backoffice"
+        "backoffice",
+        "platformbackoffice",
+        "electronicsstore"
     ],
     "storeFrontExtension": "yacceleratorstorefront",
     "storeFrontWebRoot": "/yacceleratorstorefront"
