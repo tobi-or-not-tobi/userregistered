@@ -5,6 +5,7 @@
         "yacceleratorstorefront",
         "backoffice",
         "platformbackoffice",
+        "smartedit",
         "electronicsstore"
     ],
     "storeFrontExtension": "yacceleratorstorefront",
