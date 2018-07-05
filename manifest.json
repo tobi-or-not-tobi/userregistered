@@ -6,7 +6,10 @@
         "platformbackoffice",
         "smartedit",
         "electronicsstore",
-        "modeltacceleratorservices"
+        "modeltacceleratorservices",
+        "apparelstore",
+        "electronicsstore",
+        "ycommercewebservices"
     ],
     "storeFrontExtension": "yacceleratorstorefront",
     "storeFrontWebRoot": "/yacceleratorstorefront"
