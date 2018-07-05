@@ -9,7 +9,8 @@
         "modeltacceleratorservices",
         "apparelstore",
         "electronicsstore",
-        "ycommercewebservices"
+        "ycommercewebservices",
+        "cmsoccaddon"
     ],
     "storeFrontExtension": "yacceleratorstorefront",
     "storeFrontWebRoot": "/yacceleratorstorefront"
